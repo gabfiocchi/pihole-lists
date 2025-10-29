@@ -1,0 +1,32 @@
+# Pi-hole Custom AdBlock List
+# Maintained by: Gabriel Fiocchi
+# Description: Blocks Equativ (SmartAdServer), Flashtalking, Snigel, and AdChoices ad networks.
+# Usage: Add this RAW link in Pi-hole → Group Management → Adlists → Add
+# Example: https://github.com/gabfiocchi/pihole-lists/refs/heads/main/adblock.txt
+# Last update: 2025-10-29
+
+# Equativ / SmartAdServer
+(^|\.)smartadserver\.com$
+(^|\.)eqcdn\.net$
+(^|\.)eqads\.com$
+
+# Flashtalking
+(^|\.)flashtalking\.com$
+(^|\.)flashtrack\.net$
+(^|\.)flashcount\.net$
+
+# Snigel
+(^|\.)snigel\.com$
+(^|\.)snigelweb\.com$
+
+# AdChoices networks
+(^|\.)advertising\.com$
+(^|\.)adnxs\.com$
+(^|\.)criteo\.com$
+(^|\.)doubleclick\.net$
+(^|\.)googlesyndication\.com$
+(^|\.)googleadservices\.com$
+(^|\.)quantserve\.com$
+(^|\.)scorecardresearch\.com$
+(^|\.)openx\.net$
+(^|\.)rubiconproject\.com$
