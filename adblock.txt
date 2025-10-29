@@ -6,36 +6,41 @@
 # Last update: 2025-10-29
 
 # Equativ / SmartAdServer
-(^|\.)smartadserver\.com$
-(^|\.)eqcdn\.net$
-(^|\.)eqads\.com$
+smartadserver.com
+eqcdn.net
+eqads.com
 
 # Flashtalking
-(^|\.)flashtalking\.com$
-(^|\.)flashtrack\.net$
-(^|\.)flashcount\.net$
+flashtalking.com
+flashtrack.net
+flashcount.net
 
 # Snigel (AdEngine / SnigelWeb / Consent / CDN)
-(^|\.)snigel\.com$
-(^|\.)snigelweb\.com$
-(^|\.)cdn\.snigelweb\.com$
-(^|\.)scripts\.snigelweb\.com$
-(^|\.)adengine\.snigelweb\.com$
-(^|\.)consent\.snigelweb\.com$
-(^|\.)static\.snigelweb\.com$
-(^|\.)delivery\.snigelweb\.com$
-(^|\.)analytics\.snigelweb\.com$
-(^|\.)a\.snigelweb\.com$
-(^|\.)c\.snigelweb\.com$
+snigel.com
+snigelweb.com
+adengine.snigelweb.com
+cdn.snigelweb.com
+cdnx.snigelweb.com
+adserv-fra1.snigelweb.com
+argus-fra1.snigelweb.com
+scripts.snigelweb.com
+consent.snigelweb.com
+static.snigelweb.com
+delivery.snigelweb.com
+analytics.snigelweb.com
+a.snigelweb.com
+c.snigelweb.com
 
 # AdChoices networks
-(^|\.)advertising\.com$
-(^|\.)adnxs\.com$
-(^|\.)criteo\.com$
-(^|\.)doubleclick\.net$
-(^|\.)googlesyndication\.com$
-(^|\.)googleadservices\.com$
-(^|\.)quantserve\.com$
-(^|\.)scorecardresearch\.com$
-(^|\.)openx\.net$
-(^|\.)rubiconproject\.com$
+advertising.com
+adnxs.com
+criteo.com
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+quantserve.com
+scorecardresearch.com
+openx.net
+rubiconproject.com
+fastlane.rubiconproject.com
+c.4dex.io
