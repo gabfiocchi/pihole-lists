@@ -2,7 +2,7 @@
 # Maintained by: Gabriel Fiocchi
 # Description: Blocks Equativ (SmartAdServer), Flashtalking, Snigel, and AdChoices ad networks.
 # Usage: Add this RAW link in Pi-hole → Group Management → Adlists → Add
-# Example: https://github.com/gabfiocchi/pihole-lists/refs/heads/main/adblock.txt
+# Example: https://raw.githubusercontent.com/gabfiocchi/pihole-lists/refs/heads/main/adblock.txt
 # Last update: 2025-10-29
 
 # Equativ / SmartAdServer
@@ -15,9 +15,18 @@
 (^|\.)flashtrack\.net$
 (^|\.)flashcount\.net$
 
-# Snigel
+# Snigel (AdEngine / SnigelWeb / Consent / CDN)
 (^|\.)snigel\.com$
 (^|\.)snigelweb\.com$
+(^|\.)cdn\.snigelweb\.com$
+(^|\.)scripts\.snigelweb\.com$
+(^|\.)adengine\.snigelweb\.com$
+(^|\.)consent\.snigelweb\.com$
+(^|\.)static\.snigelweb\.com$
+(^|\.)delivery\.snigelweb\.com$
+(^|\.)analytics\.snigelweb\.com$
+(^|\.)a\.snigelweb\.com$
+(^|\.)c\.snigelweb\.com$
 
 # AdChoices networks
 (^|\.)advertising\.com$
